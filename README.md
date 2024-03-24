@@ -13,7 +13,7 @@ Foram aplicados fundamentos de JavaScript como variáveis, arrays, objetos, loop
 <br>
 
 <h2>
-<a href="https://todo-app-rouge-chi-94.vercel.app/"> 🔗 Deploy 🔗</a>
+<a href="https://todo-app-cvh1.vercel.app/"> 🔗 Deploy 🔗</a>
 </h2>
 
 ![image](https://github.com/luanatex/Todo-app/assets/141527536/cdc1546f-b8ed-4f89-a2d4-0767d7254793)
